@@ -6,7 +6,7 @@ Welcome to **PvZ: Lawnmageddom**, a simple Plant vs Zombies game loosely based o
 
 The player will be able to embody one of the human characters from the PvZ franchise to defend themselves with a circle of plants from waves of zombies headed directly towards the player. Different plants will present different attack patterns and the variety will allow for replayability.
 
-The game might also include a non-RNG game mode based on the first issue of the comics, Lawnmageddon, to unlock the comic's protagonists Nate Timely and Patrice Blaze.
+The game might also include a non-RNG game mode based on the first issue of the comics, Lawnmageddon, to unlock the comic's protagonists Nate Timely and Patrice Blazing.
 
 ## Disclaimer
 
