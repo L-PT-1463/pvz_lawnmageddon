@@ -5,7 +5,7 @@ tags:
   - stallerPlant
   - pepper-pult
 ---
-Melon-pult is a level 3 plant obtained by fusing a [[Melon-pult]] and an [[Iceberg Lettuce]].
+Melon-pult is a level 3 mutation obtained by splicing a [[Melon-pult]] and an [[Iceberg Lettuce]].
 
 It attacks the zombie with the highest max total hp in the lawn with a lobbed attack that deals splash damage and chills zombies.
 

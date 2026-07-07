@@ -5,7 +5,7 @@ tags:
   - stallerPlant
   - lobberPlant
 ---
-Cold-slaw is a level 2 plant obtained by fusing a [[Cabbage-pult]] and an [[Iceberg Lettuce]].
+Cold-slaw is a level 2 mutation obtained by splicing a [[Cabbage-pult]] and an [[Iceberg Lettuce]].
 
 It attacks the zombie with the highest max total hp in the lawn with a lobbed attack that chills zombies.
 

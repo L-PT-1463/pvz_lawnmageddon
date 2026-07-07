@@ -4,7 +4,7 @@ tags:
   - peashooter
   - shooterPlant
 ---
-Primal Peashooter is a level 2 plant obtained by fusing two [[Peashooter]]s.
+Primal Peashooter is a level 2 mutation obtained by fusing two [[Peashooter]]s.
 
 It attacks the nearest zombie to the player with a straight attack, firing a large pea that knocks zombies back.
 

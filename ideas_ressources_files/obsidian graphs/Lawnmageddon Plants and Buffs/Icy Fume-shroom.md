@@ -5,7 +5,7 @@ tags:
   - shooterPlant
   - stallerPlant
 ---
-Icy Fume-shroom is a level 4 obtained by fusing a [[Fume-shroom]] and an [[Iceberg Lettuce]].
+Icy Fume-shroom is a level 3 mutation by splicing a [[Fume-shroom]] and an [[Iceberg Lettuce]].
 
 It attacks the nearest zombie to the player with a straight attack, firing a short-ranged chilling beam of fumes that can hit multiple zombies.
 

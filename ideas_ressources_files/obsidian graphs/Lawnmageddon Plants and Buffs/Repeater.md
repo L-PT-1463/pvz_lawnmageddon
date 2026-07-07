@@ -4,7 +4,7 @@ tags:
   - peashooter
   - level2
 ---
-Repeater is a level 2 plant obtained by fusing two [[Peashooter]]s.
+Repeater is a level 2 mutation obtained by fusing two [[Peashooter]]s, or by applying [[Fertilizer]] to a Peashooter.
 
 It attacks the nearest zombie to the player with a straight attack, firing two peas.
 

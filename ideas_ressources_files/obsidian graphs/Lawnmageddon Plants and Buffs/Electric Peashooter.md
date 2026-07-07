@@ -4,7 +4,7 @@ tags:
   - peashooter
   - shooterPlant
 ---
-Electric Peashooter is a level 2 plant obtained by fusing a [[Peashooter]] and an [[E.M.Peach]].
+Electric Peashooter is a level 2 mutation obtained by splicing a [[Peashooter]] and an [[E.M.Peach]].
 
 It attacks the nearest zombie to the player with a straight attack, firing a pea that traverse the zombie to hit the other behind it.
 

@@ -4,7 +4,7 @@ tags:
   - lobberPlant
   - pepper-pult
 ---
-Melon-pult is a level 2 plant obtained by fusing two [[Pepper-pult]].
+Melon-pult is a level 2 mutation obtained by fusing two [[Pepper-pult]], or by applying [[Fertilizer]] to a Pepper-pult.
 
 It attacks the zombie with the highest max total hp in the lawn with a lobbed attack that deals splash damage.
 

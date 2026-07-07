@@ -4,7 +4,7 @@ tags:
   - puff-shroom
   - lobberPlant
 ---
-Spore-shroom is a level 2 plant obtained by fusing two [[Puff-shroom]]s.
+Spore-shroom is a level 2 mutation obtained by fusing two [[Puff-shroom]]s.
 
 It attacks the nearest zombie to the player with a straight attack. If it vanquishes a zombie, it spawns a [[Button-shroom]] on that spot.
 

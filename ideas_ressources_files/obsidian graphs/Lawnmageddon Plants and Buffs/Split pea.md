@@ -4,7 +4,7 @@ tags:
   - shooterPlant
   - level3
 ---
-Split-pea is a level 3 plant obtained by fusing a [[Peashooter]] and a [[Repeater]].
+Split-pea is a level 3 mutation obtained by fusing a [[Peashooter]] and a [[Repeater]].
 
 It attacks the nearest zombie to the player with a straight attack, firing two peas forwards and one pea backwards.
 

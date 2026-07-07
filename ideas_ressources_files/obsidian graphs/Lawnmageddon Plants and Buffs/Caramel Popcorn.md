@@ -5,7 +5,7 @@ tags:
   - stallerPlant
   - level2
 ---
-Caramel Popcorn is a level 2 plant obtained by fusing two [[Kernel-pult]]s.
+Caramel Popcorn is a level 2 mutation obtained by fusing two [[Kernel-pult]]s, or by applying [[Fertilizer]] to a Kernel-pult.
 
 It attacks the zombie with the highest max total hp in the lawn with a lobbed attack, but periodically lobs a stalling butter instead.
 

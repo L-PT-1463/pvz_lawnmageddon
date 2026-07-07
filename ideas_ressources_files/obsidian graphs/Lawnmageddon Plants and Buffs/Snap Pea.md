@@ -6,7 +6,7 @@ tags:
   - shooterPlant
   - meleePlant
 ---
-Snap Pea is a level 2 plant obtained by fusing a [[Peashooter]] and a [[Chomper]].
+Snap Pea is a level 2 mutation obtained by splicing a [[Peashooter]] and a [[Chomper]].
 
 It attacks the nearest zombie to the player with a straight attack, or attacks the nearest zombie to itself in range for heavier damage.
 

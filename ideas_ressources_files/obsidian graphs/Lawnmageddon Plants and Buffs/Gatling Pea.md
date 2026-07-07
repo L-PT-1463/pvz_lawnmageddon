@@ -4,7 +4,7 @@ tags:
   - shooterPlant
   - level4
 ---
-Repeater is a level 4 plant obtained by fusing a [[Peashooter]] and a [[Pea Pod]].
+Repeater is a level 4 mutation obtained by fusing a [[Peashooter]] and a [[Three Pod]], or by applying [[Fertilizer]] to a Three Pod.
 
 It attacks the nearest zombie to the player with a straight attack, firing four peas.
 

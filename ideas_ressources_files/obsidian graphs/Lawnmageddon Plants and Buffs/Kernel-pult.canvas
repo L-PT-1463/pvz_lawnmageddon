@@ -4,6 +4,6 @@
 		{"id":"f62ff570ca92a14b","type":"file","file":"Caramel Popcorn.md","x":-180,"y":-220,"width":360,"height":60}
 	],
 	"edges":[
-		{"id":"f7d429ec06f078f4","fromNode":"f14cf70d83693ff6","fromSide":"top","toNode":"f62ff570ca92a14b","toSide":"bottom","label":"+1 Kernel-pult"}
+		{"id":"f7d429ec06f078f4","fromNode":"f14cf70d83693ff6","fromSide":"top","toNode":"f62ff570ca92a14b","toSide":"bottom","label":"+1 Kernel-pult\n/ Fertilizer"}
 	]
 }

@@ -5,7 +5,7 @@ tags:
   - level2
   - stallerPlant
 ---
-Fire Peashooter is a level 2 plant obtained by fusing a [[Peashooter]] and a [[Cherry Bomb]].
+Fire Peashooter is a level 2 mutation obtained by splicing a [[Peashooter]] and a [[Cherry Bomb]].
 
 It attacks the nearest zombie to the player with a straight attack, firing a pea that deal splash damage.
 

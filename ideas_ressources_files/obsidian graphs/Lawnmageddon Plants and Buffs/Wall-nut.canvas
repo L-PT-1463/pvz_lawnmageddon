@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"6ba009324811fcde","x":-320,"y":-680,"width":360,"height":60,"type":"file","file":"Three-nut.md"},
+		{"id":"6ba009324811fcde","type":"file","file":"Three-nut.md","x":-320,"y":-680,"width":360,"height":60},
 		{"id":"2cd6f8d33a7343b9","type":"file","file":"Sweet Potato.md","x":1490,"y":-220,"width":360,"height":60},
 		{"id":"34d49181ff40b9fa","type":"file","file":"Tall-nut.md","x":800,"y":-220,"width":360,"height":60},
 		{"id":"6197fcf55ce8771f","type":"file","file":"Wall-nut.md","x":800,"y":160,"width":360,"height":60},
@@ -11,23 +11,23 @@
 		{"id":"38a3889d01fa4c01","type":"file","file":"Pea-nut.md","x":-320,"y":-220,"width":360,"height":60},
 		{"id":"b2e75f593a63e415","type":"file","file":"Peashooter.md","x":-320,"y":160,"width":360,"height":60,"color":"4"},
 		{"id":"739afb16da845e2c","type":"file","file":"Infi-nut.md","x":240,"y":-220,"width":360,"height":60},
-		{"id":"f2374206618655e3","type":"file","file":"E.M.Peach.md","x":240,"y":160,"width":360,"height":60,"color":"3"}
+		{"id":"f2374206618655e3","type":"file","file":"E.M.Peach.md","x":240,"y":160,"width":360,"height":60,"color":"6"}
 	],
 	"edges":[
-		{"id":"370e1280cfc2c5db","fromNode":"6197fcf55ce8771f","fromSide":"top","toNode":"88382345f3a92842","toSide":"bottom"},
+		{"id":"370e1280cfc2c5db","fromNode":"6197fcf55ce8771f","fromSide":"top","toNode":"88382345f3a92842","toSide":"bottom","color":"1"},
 		{"id":"a22023ad276313ed","fromNode":"1e33c19c92831065","fromSide":"top","toNode":"88382345f3a92842","toSide":"bottom","color":"1"},
-		{"id":"dc04ebd696155a54","fromNode":"6197fcf55ce8771f","fromSide":"top","toNode":"34d49181ff40b9fa","toSide":"bottom","label":"+1 Wall-nut"},
-		{"id":"472536f23cf4d22b","fromNode":"f2374206618655e3","fromSide":"top","toNode":"739afb16da845e2c","toSide":"bottom","color":"3"},
-		{"id":"faf0e8bbc499409e","fromNode":"6197fcf55ce8771f","fromSide":"top","toNode":"739afb16da845e2c","toSide":"bottom"},
+		{"id":"dc04ebd696155a54","fromNode":"6197fcf55ce8771f","fromSide":"top","toNode":"34d49181ff40b9fa","toSide":"bottom","label":"+1 Wall-nut\n/ Fertilizer"},
+		{"id":"472536f23cf4d22b","fromNode":"f2374206618655e3","fromSide":"top","toNode":"739afb16da845e2c","toSide":"bottom","color":"6"},
+		{"id":"faf0e8bbc499409e","fromNode":"6197fcf55ce8771f","fromSide":"top","toNode":"739afb16da845e2c","toSide":"bottom","color":"6"},
 		{"id":"13aa3fa8cea661d5","fromNode":"6197fcf55ce8771f","fromSide":"top","toNode":"2cd6f8d33a7343b9","toSide":"bottom","label":"+1 Wall-nut"},
 		{"id":"234afd4bef2c83b9","fromNode":"b2e75f593a63e415","fromSide":"top","toNode":"38a3889d01fa4c01","toSide":"bottom","color":"4"},
-		{"id":"49017b16eaf3d53d","fromNode":"6197fcf55ce8771f","fromSide":"top","toNode":"38a3889d01fa4c01","toSide":"bottom"},
+		{"id":"49017b16eaf3d53d","fromNode":"6197fcf55ce8771f","fromSide":"top","toNode":"38a3889d01fa4c01","toSide":"bottom","color":"4"},
 		{"id":"987da66c0052c489","fromNode":"1e33c19c92831065","fromSide":"top","toNode":"f4b2e93cff595f32","toSide":"bottom","color":"1"},
-		{"id":"2b95a40c6f1e32d9","fromNode":"6197fcf55ce8771f","fromSide":"top","toNode":"f4b2e93cff595f32","toSide":"bottom"},
-		{"id":"9ddc270c9e6a25f9","fromNode":"2cd6f8d33a7343b9","fromSide":"top","toNode":"c957cc114850453d","toSide":"bottom"},
+		{"id":"2b95a40c6f1e32d9","fromNode":"6197fcf55ce8771f","fromSide":"top","toNode":"f4b2e93cff595f32","toSide":"bottom","color":"1"},
+		{"id":"9ddc270c9e6a25f9","fromNode":"2cd6f8d33a7343b9","fromSide":"top","toNode":"c957cc114850453d","toSide":"bottom","color":"1"},
 		{"id":"59deae072d3ba92e","fromNode":"1e33c19c92831065","fromSide":"top","toNode":"c957cc114850453d","toSide":"bottom","color":"1"},
 		{"id":"3b0c50982c6f6a05","fromNode":"f4b2e93cff595f32","fromSide":"right","toNode":"c957cc114850453d","toSide":"right","label":"+1 Wall-nut"},
-		{"id":"d382521436fa7da7","fromNode":"38a3889d01fa4c01","fromSide":"right","toNode":"6ba009324811fcde","toSide":"right","label":"+1 Wall-nut"},
-		{"id":"7b869cb26fab7093","fromNode":"38a3889d01fa4c01","fromSide":"left","toNode":"6ba009324811fcde","toSide":"left","color":"4","label":"+1 Peashooter"}
+		{"id":"7b869cb26fab7093","fromNode":"38a3889d01fa4c01","fromSide":"left","toNode":"6ba009324811fcde","toSide":"left","color":"4","label":"+1 Peashooter"},
+		{"id":"7cf75647f15a2a63","fromNode":"38a3889d01fa4c01","fromSide":"top","toNode":"6ba009324811fcde","toSide":"bottom","label":"+1 Wall-nut\n/ Fertiliser"}
 	]
 }

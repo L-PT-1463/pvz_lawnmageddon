@@ -6,8 +6,8 @@
 		{"id":"5105d20014e8f93e","type":"file","file":"Winter Melon.md","x":-510,"y":-480,"width":360,"height":60}
 	],
 	"edges":[
-		{"id":"01959e99f0a2b2e0","fromNode":"89e5e4c23a37369d","fromSide":"top","toNode":"73c51b1bdc0c6b6e","toSide":"bottom","label":"+1 Pepper-pult"},
+		{"id":"01959e99f0a2b2e0","fromNode":"89e5e4c23a37369d","fromSide":"top","toNode":"73c51b1bdc0c6b6e","toSide":"bottom","label":"+1 Pepper-pult\n/ Fertilizer"},
 		{"id":"4b762182c8d8d524","fromNode":"27ad10569896cc8e","fromSide":"top","toNode":"5105d20014e8f93e","toSide":"bottom","color":"5"},
-		{"id":"71d62b1169565aea","fromNode":"73c51b1bdc0c6b6e","fromSide":"top","toNode":"5105d20014e8f93e","toSide":"bottom"}
+		{"id":"71d62b1169565aea","fromNode":"73c51b1bdc0c6b6e","fromSide":"top","toNode":"5105d20014e8f93e","toSide":"bottom","color":"5"}
 	]
 }

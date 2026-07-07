@@ -4,7 +4,7 @@ tags:
   - puff-shroom
   - shooterPlant
 ---
-Shroom for Two is a level 2 plant obtained by fusing two [[Puff-shroom]]s.
+Shroom for Two is a level 2 mutation obtained by fusing two [[Puff-shroom]]s.
 
 It attacks the nearest zombie to the player with a straight attack, though it has a limited range, firing two spores in rapid succession.
 

@@ -4,7 +4,7 @@ tags:
   - shooterPlant
   - puff-shroom
 ---
-Scaredy-shroom is a level 2 plant obtained by fusing two [[Puff-shroom]]s.
+Scaredy-shroom is a level 2 mutation obtained by fusing two [[Puff-shroom]]s.
 
 It attacks the nearest zombie to the player with a straight attack, firing faster the further away the zombie is but being entirely unable to attack if there are any zombies in a short range to itself.
 

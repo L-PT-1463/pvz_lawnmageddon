@@ -4,7 +4,7 @@ tags:
   - cabbage-pult
   - lobberPlant
 ---
-Slaw-slinger is a level 2 lobber plant obtained by fusing two [[Cabbage-pult]]s.
+Slaw-slinger is a level 2 mutation obtained by fusing two [[Cabbage-pult]]s, or by applying [[Fertilizer]] to a Cabbage-pult.
 
 It attacks the zombie with the highest max total hp in the lawn with a lobbed attack, lobbing two cabbages in rapid succession.
 
