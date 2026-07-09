@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"89e5e4c23a37369d","type":"file","file":"Pepper-pult/Pepper-pult.md","x":150,"y":160,"width":360,"height":60},
+		{"id":"73c51b1bdc0c6b6e","type":"file","file":"Pepper-pult/Melon-pult.md","x":150,"y":-220,"width":360,"height":60},
+		{"id":"27ad10569896cc8e","type":"file","file":"Iceberg Lettuce.md","x":-510,"y":160,"width":360,"height":60,"color":"5"},
+		{"id":"5105d20014e8f93e","type":"file","file":"Pepper-pult/Winter Melon.md","x":-510,"y":-480,"width":360,"height":60},
+		{"id":"277e16cce8a90a24","type":"file","file":"Moonbean.md","x":820,"y":160,"width":360,"height":60,"color":"6"},
+		{"id":"c2059f14fb1fdf64","x":820,"y":-220,"width":360,"height":60,"type":"file","file":"Pepper-pult/Dusk Lobber.md"}
+	],
+	"edges":[
+		{"id":"01959e99f0a2b2e0","fromNode":"89e5e4c23a37369d","fromSide":"top","toNode":"73c51b1bdc0c6b6e","toSide":"bottom","label":"+1 Pepper-pult\n/ Fertilizer"},
+		{"id":"4b762182c8d8d524","fromNode":"27ad10569896cc8e","fromSide":"top","toNode":"5105d20014e8f93e","toSide":"bottom","color":"5"},
+		{"id":"71d62b1169565aea","fromNode":"73c51b1bdc0c6b6e","fromSide":"top","toNode":"5105d20014e8f93e","toSide":"bottom","color":"5"},
+		{"id":"302fe5f803f9bd22","fromNode":"277e16cce8a90a24","fromSide":"top","toNode":"c2059f14fb1fdf64","toSide":"bottom","color":"6"},
+		{"id":"18aba90c02d51372","fromNode":"89e5e4c23a37369d","fromSide":"top","toNode":"c2059f14fb1fdf64","toSide":"bottom","color":"6"}
+	]
+}

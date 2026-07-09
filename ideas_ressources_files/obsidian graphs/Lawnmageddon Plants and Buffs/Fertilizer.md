@@ -1,6 +1,7 @@
 ---
 tags:
   - standalone
+  - noPlant
 ---
 Fertilizer is a standalone ability.
 

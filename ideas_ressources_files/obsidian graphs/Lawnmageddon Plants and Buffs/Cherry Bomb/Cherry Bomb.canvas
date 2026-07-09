@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"aef873ecdb3414c5","type":"file","file":"Cherry Bomb/Jalapeño.md","x":-700,"y":-220,"width":360,"height":60},
+		{"id":"b0c5443179eeafcf","type":"file","file":"Cherry Bomb/Chilly Pepper.md","x":-1360,"y":-620,"width":360,"height":60},
+		{"id":"b6df7d0d2f2119c7","type":"file","file":"Iceberg Lettuce.md","x":-1360,"y":160,"width":360,"height":60,"color":"5"},
+		{"id":"842c1cbd0f12a1cb","type":"file","file":"Cherry Bomb/Ghost Pepper.md","x":-700,"y":-620,"width":360,"height":60},
+		{"id":"e01955e32db9bd47","type":"file","file":"Cherry Bomb/Noctarine.md","x":740,"y":-220,"width":360,"height":60},
+		{"id":"2593d927bf2f07b4","type":"file","file":"Moonbean.md","x":740,"y":160,"width":360,"height":60,"color":"6"},
+		{"id":"d2061d306383217d","type":"file","file":"Cherry Bomb/Grapeshot.md","x":40,"y":-220,"width":360,"height":60},
+		{"id":"158bca93761cffce","type":"file","file":"Cherry Bomb/Cherry Bomb.md","x":40,"y":160,"width":360,"height":60},
+		{"id":"a409020fc45bf193","type":"file","file":"Cherry Bomb/Solar Tomato.md","x":1360,"y":-220,"width":360,"height":60},
+		{"id":"61fa03e28f90b535","type":"file","file":"Sunflower/Sunflower.md","x":1360,"y":160,"width":360,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"becaf5ccff8dbec6","fromNode":"158bca93761cffce","fromSide":"top","toNode":"aef873ecdb3414c5","toSide":"bottom","label":"+1 Cherry Bomb"},
+		{"id":"c11dd7f3c9c6404d","fromNode":"aef873ecdb3414c5","fromSide":"top","toNode":"b0c5443179eeafcf","toSide":"bottom","color":"5"},
+		{"id":"eea38b5c5c458af3","fromNode":"b6df7d0d2f2119c7","fromSide":"top","toNode":"b0c5443179eeafcf","toSide":"bottom","color":"5"},
+		{"id":"6712bd38b63616f5","fromNode":"aef873ecdb3414c5","fromSide":"top","toNode":"842c1cbd0f12a1cb","toSide":"bottom","label":"+1 Cherry Bomb\n"},
+		{"id":"29b63d3b4ae55a1b","fromNode":"158bca93761cffce","fromSide":"top","toNode":"d2061d306383217d","toSide":"bottom","label":"+1 Cherry Bomb\n/ Fertilizer"},
+		{"id":"0839738cd155f941","fromNode":"2593d927bf2f07b4","fromSide":"top","toNode":"e01955e32db9bd47","toSide":"bottom","color":"6"},
+		{"id":"69736605502ed689","fromNode":"158bca93761cffce","fromSide":"top","toNode":"e01955e32db9bd47","toSide":"bottom","color":"6"},
+		{"id":"9b36d4cdcb11c6cf","fromNode":"61fa03e28f90b535","fromSide":"top","toNode":"a409020fc45bf193","toSide":"bottom","color":"4"},
+		{"id":"671286b4d63c059e","fromNode":"158bca93761cffce","fromSide":"top","toNode":"a409020fc45bf193","toSide":"bottom","color":"4"}
+	]
+}

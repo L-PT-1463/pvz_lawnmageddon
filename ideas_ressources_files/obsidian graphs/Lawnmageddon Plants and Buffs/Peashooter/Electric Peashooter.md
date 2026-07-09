@@ -1,0 +1,12 @@
+---
+tags:
+  - level2
+  - peashooter
+  - shooterPlant
+  - pottedPlant
+---
+Electric Peashooter is a level 2 mutation obtained by splicing a [[Peashooter]] and an [[E.M.Peach]].
+
+It attacks the nearest zombie to the player with a straight attack, firing a large pea that traverses the zombie to hit others behind it.
+
+If there are more than one [[Peashooter.canvas]]-types, the second instead attacks the second closest zombie, and so on for the next.

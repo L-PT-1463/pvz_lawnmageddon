@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 4968074
       }
+    },
+    {
+      "query": "tag:#sunflower  ",
+      "color": {
+        "a": 1,
+        "rgb": 12054349
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930121385,
+  "scale": 0.36288736930121396,
   "close": true
 }

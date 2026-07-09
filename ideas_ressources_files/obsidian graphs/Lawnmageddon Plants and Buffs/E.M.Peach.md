@@ -3,7 +3,7 @@ tags:
   - standalone
   - instantPlant
   - stallerPlant
-  - spawnAbility
+  - spawnedPlant
 ---
 Cherry Bomb is a standalone instant plant.
 

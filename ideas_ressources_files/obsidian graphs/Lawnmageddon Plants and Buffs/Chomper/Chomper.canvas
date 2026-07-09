@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"2ecafbbf05a9a3de","type":"file","file":"Chomper/Super Chomper.md","x":-210,"y":-199,"width":360,"height":60},
+		{"id":"53414979b8ad13fb","type":"file","file":"Chomper/Chomper.md","x":-210,"y":181,"width":360,"height":60},
+		{"id":"319897b79e1cb512","type":"file","file":"Chomper/Snapdragon.md","x":400,"y":-199,"width":360,"height":60},
+		{"id":"1ca138e54f4e5298","type":"file","file":"Cherry Bomb/Cherry Bomb.md","x":400,"y":181,"width":360,"height":60,"color":"1"},
+		{"id":"757c18e0a44403af","type":"file","file":"Chomper/Cold Snapdragon.md","x":1000,"y":-579,"width":360,"height":60},
+		{"id":"2467bcaa1fb21af8","type":"file","file":"Iceberg Lettuce.md","x":1000,"y":181,"width":360,"height":60,"color":"5"},
+		{"id":"9197e15d21da6cc0","type":"file","file":"Chomper/Nightshade.md","x":-760,"y":-199,"width":360,"height":60},
+		{"id":"d80f60fd169ae828","type":"file","file":"Moonbean.md","x":-760,"y":181,"width":360,"height":60,"color":"6"},
+		{"id":"5e58517dbb50edc3","type":"file","file":"Chomper/Snap Pea.md","x":-1320,"y":-199,"width":360,"height":60},
+		{"id":"339525ef9c444aa1","type":"file","file":"Chomper/Chomper.md","x":-1320,"y":181,"width":360,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"9f2e2813cd995846","fromNode":"1ca138e54f4e5298","fromSide":"top","toNode":"319897b79e1cb512","toSide":"bottom","color":"1"},
+		{"id":"f662c7b7f069d440","fromNode":"53414979b8ad13fb","fromSide":"top","toNode":"319897b79e1cb512","toSide":"bottom","color":"1"},
+		{"id":"c053b86aaa884b3c","fromNode":"2467bcaa1fb21af8","fromSide":"top","toNode":"757c18e0a44403af","toSide":"bottom","color":"5"},
+		{"id":"b9f6eed31e064f8d","fromNode":"319897b79e1cb512","fromSide":"top","toNode":"757c18e0a44403af","toSide":"bottom","color":"5"},
+		{"id":"7699216f214f751b","fromNode":"53414979b8ad13fb","fromSide":"top","toNode":"2ecafbbf05a9a3de","toSide":"bottom","label":"+1 Chomper\n/ Fertilizer"},
+		{"id":"61ae01f40d9a2308","fromNode":"d80f60fd169ae828","fromSide":"top","toNode":"9197e15d21da6cc0","toSide":"bottom","color":"6"},
+		{"id":"ea1c6661c98dc430","fromNode":"53414979b8ad13fb","fromSide":"top","toNode":"9197e15d21da6cc0","toSide":"bottom","color":"6"},
+		{"id":"4d5c1e226f69add1","fromNode":"339525ef9c444aa1","fromSide":"top","toNode":"5e58517dbb50edc3","toSide":"bottom","color":"4"},
+		{"id":"1f23999d478814f7","fromNode":"53414979b8ad13fb","fromSide":"top","toNode":"5e58517dbb50edc3","toSide":"bottom","color":"4"}
+	]
+}

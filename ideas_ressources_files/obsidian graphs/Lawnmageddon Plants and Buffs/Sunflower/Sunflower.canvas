@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"230fd5b2c3284636","type":"file","file":"Sunflower/Primal Sunflower.md","x":-840,"y":-250,"width":360,"height":60},
+		{"id":"50d4a43d912b2892","type":"file","file":"Sunflower/Feral Sunflower.md","x":-1360,"y":-600,"width":360,"height":60},
+		{"id":"1070721e7f52f803","type":"file","file":"Chomper/Chomper.md","x":-1360,"y":190,"width":360,"height":60,"color":"4"},
+		{"id":"cca02e30bc2b717c","type":"file","file":"Watering Can/Watering Can.md","x":-240,"y":190,"width":360,"height":60},
+		{"id":"e793bdbbfbc7cfe2","type":"file","file":"Sunflower/Twin Sunflower.md","x":-240,"y":-250,"width":360,"height":60},
+		{"id":"a364f53b42fed3f1","type":"file","file":"Moonbean.md","x":440,"y":190,"width":360,"height":60,"color":"6"},
+		{"id":"c7770e79a13d32d2","type":"file","file":"Sunflower/Moonflower.md","x":440,"y":-250,"width":360,"height":60}
+	],
+	"edges":[
+		{"id":"5dfb757df91d142b","fromNode":"cca02e30bc2b717c","fromSide":"top","toNode":"e793bdbbfbc7cfe2","toSide":"bottom","label":"+1 Sunflower\n/ Fertilizer"},
+		{"id":"6b4683e05a038d83","fromNode":"cca02e30bc2b717c","fromSide":"top","toNode":"230fd5b2c3284636","toSide":"bottom","label":"+1 Sunflower"},
+		{"id":"0fb681ad79f1c9fb","fromNode":"1070721e7f52f803","fromSide":"top","toNode":"50d4a43d912b2892","toSide":"bottom","color":"4"},
+		{"id":"c59eaa4fbcab332e","fromNode":"230fd5b2c3284636","fromSide":"top","toNode":"50d4a43d912b2892","toSide":"bottom","color":"4"},
+		{"id":"0c36d7cf4f0c6509","fromNode":"a364f53b42fed3f1","fromSide":"top","toNode":"c7770e79a13d32d2","toSide":"bottom","color":"6"},
+		{"id":"9cd00aa14dc06c0f","fromNode":"cca02e30bc2b717c","fromSide":"top","toNode":"c7770e79a13d32d2","toSide":"bottom","color":"6"}
+	]
+}

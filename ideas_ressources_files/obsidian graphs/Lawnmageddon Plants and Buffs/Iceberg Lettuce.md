@@ -1,8 +1,8 @@
 ---
 tags:
   - stallerPlant
-  - spawnAbility
   - standalone
+  - spawnedPlant
 ---
 Iceberg Lettuce is a standalone stalling plant.
 
