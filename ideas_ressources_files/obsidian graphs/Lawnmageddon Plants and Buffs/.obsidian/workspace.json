@@ -13,36 +13,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Wall-nut/Wall-nut.canvas",
+                "file": "Chomper/Chomper.canvas",
                 "viewState": {
-                  "x": 1255,
-                  "y": -189.99999999999994,
-                  "zoom": -1.888912854679463
+                  "x": 20,
+                  "y": -169,
+                  "zoom": -1.190130454401145
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Wall-nut"
-            }
-          },
-          {
-            "id": "7073df7fb07b5a79",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Peashooter/Peashooter.canvas",
-                "viewState": {
-                  "x": -366.46428819780385,
-                  "y": -488.5448916408666,
-                  "zoom": -2.146409076971827
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Peashooter"
+              "title": "Chomper"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,14 +183,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "7073df7fb07b5a79",
+  "active": "821e6aa6918e543d",
   "lastOpenFiles": [
     "Wall-nut/Wall-nut.canvas",
+    "Chomper/Chomper.md",
+    "Chomper/Nightshade.md",
+    "Chomper/Snap Pea.md",
+    "Chomper/Cold Snapdragon.md",
+    "Patrice Blazing.md",
+    "Nate Timely.md",
+    "Crazy Dave.md",
+    "Peashooter/Peashooter.canvas",
+    "Peashooter/Split Pea.md",
     "Sunflower/Sunflower.canvas",
     "Pepper-pult/Pepper-pult.canvas",
     "Chomper/Chomper.canvas",
     "Cherry Bomb/Cherry Bomb.canvas",
-    "Peashooter/Peashooter.canvas",
     "Moonbean.md",
     "Iceberg Lettuce.md",
     "E.M.Peach.md",
@@ -229,14 +219,6 @@
     "Cherry Bomb/Solar Tomato.md",
     "Cherry Bomb/Noctarine.md",
     "Cherry Bomb/Jalapeño.md",
-    "Cherry Bomb/Grapeshot.md",
-    "Cherry Bomb/Ghost Pepper.md",
-    "Cherry Bomb/Chilly Pepper.md",
-    "Cherry Bomb/Cherry Bomb.md",
-    "Watering Can/Watering Can.md",
-    "Watering Can/Plant Food.md",
-    "Watering Can/Gold Watering Can.md",
-    "Watering Can/Bug Spray.md",
     "Puff-shroom",
     "Sunflower",
     "Wall-nut",

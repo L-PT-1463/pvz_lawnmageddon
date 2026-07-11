@@ -7,6 +7,6 @@ tags:
 ---
 Nightshade is a level 2 mutation obtained by splicing a [[Chomper]] and a [[Moonbean]].
 
-It attacks the nearest zombie to itself in range for heavy damage.
+It attacks the nearest zombie to itself in range for heavy damage. It can attack in quicker succession than Chomper, but must rest after every third zombie.
 
 If the player has at least one [[Moonflower]], Nightshade has a significantly larger attack range.
