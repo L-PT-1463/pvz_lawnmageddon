@@ -1,19 +1,17 @@
 {
 	"nodes":[
+		{"id":"6ace76cb95b86ad3","x":600,"y":-522,"width":360,"height":60,"type":"file","file":"Cabbage-pult/Pomegarnet Merchant.md"},
 		{"id":"c90a120fac610da7","type":"file","file":"Cabbage-pult/A.K.E.E..md","x":600,"y":-164,"width":360,"height":60},
 		{"id":"f4879f7512d881f5","type":"file","file":"Cabbage-pult/Cabbage-pult.md","x":-167,"y":216,"width":360,"height":60},
 		{"id":"5535f9c46f681df9","type":"file","file":"Cabbage-pult/Slaw-slinger.md","x":-167,"y":-164,"width":360,"height":60},
 		{"id":"fa762723639b176e","type":"file","file":"Cabbage-pult/Cold-slaw.md","x":-827,"y":-164,"width":360,"height":60},
-		{"id":"8aa9bbcbbfa9eb87","type":"file","file":"Iceberg Lettuce.md","x":-827,"y":216,"width":360,"height":60,"color":"5"},
-		{"id":"ac7dcb9c6a64f575","type":"file","file":"Cabbage-pult/Apple Mortar.md","x":1120,"y":-520,"width":360,"height":60},
-		{"id":"27eb0e0b25553010","type":"file","file":"Kernel-pult/Kernel-pult.md","x":1120,"y":216,"width":360,"height":60,"color":"4"}
+		{"id":"8aa9bbcbbfa9eb87","type":"file","file":"Iceberg Lettuce.md","x":-827,"y":216,"width":360,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"14a08a6ae100bf53","fromNode":"f4879f7512d881f5","fromSide":"top","toNode":"5535f9c46f681df9","toSide":"bottom","label":"+1 Cabbage-pult\n\n/ Fertilizer"},
 		{"id":"a8c12d91e78e92a3","fromNode":"f4879f7512d881f5","fromSide":"top","toNode":"fa762723639b176e","toSide":"bottom","color":"5"},
 		{"id":"95f5a0e92bf61936","fromNode":"8aa9bbcbbfa9eb87","fromSide":"top","toNode":"fa762723639b176e","toSide":"bottom","color":"5"},
 		{"id":"0a15d81a0e0cb294","fromNode":"f4879f7512d881f5","fromSide":"top","toNode":"c90a120fac610da7","toSide":"bottom","label":"+1 Cabbage-pult"},
-		{"id":"e806cca601557778","fromNode":"27eb0e0b25553010","fromSide":"top","toNode":"ac7dcb9c6a64f575","toSide":"bottom","color":"4"},
-		{"id":"b0d2a46547c924fb","fromNode":"c90a120fac610da7","fromSide":"top","toNode":"ac7dcb9c6a64f575","toSide":"bottom","color":"4"}
+		{"id":"ab76857227e2717b","fromNode":"c90a120fac610da7","fromSide":"top","toNode":"6ace76cb95b86ad3","toSide":"bottom","label":"+1 Cabbage-pult"}
 	]
 }
