@@ -6,7 +6,7 @@ tags:
   - stallerPlant
   - pottedPlant
 ---
-Fire Repeater is a level 3 mutation obtained by fusing a [[Peashooter]] and a [[Fire Peashooter]], or by splicing a [[Repeater]] and a [[Cherry Bomb]], or by applying [[Fertilizer]] to a Fire Peashooter.
+Fire Repeater is a level 3 mutation obtained by fusing a [[Peashooter]] and a [[Fire Pea]], or by splicing a [[Repeater]] and a [[Cherry Bomb]], or by applying [[Fertilizer]] to a Fire Peashooter.
 
 It attacks the nearest zombie to the player with a straight attack, firing two peas that deal splash damage.
 
