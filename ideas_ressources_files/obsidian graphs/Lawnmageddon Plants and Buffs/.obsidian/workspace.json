@@ -8,6 +8,23 @@
         "type": "tabs",
         "children": [
           {
+            "id": "227c36e04872efb6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Cabbage-pult/Cabbage-pult.canvas",
+                "viewState": {
+                  "x": 66.5,
+                  "y": -123,
+                  "zoom": -0.6054370880975005
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Cabbage-pult"
+            }
+          },
+          {
             "id": "821e6aa6918e543d",
             "type": "leaf",
             "state": {
@@ -176,18 +193,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "821e6aa6918e543d",
+  "active": "227c36e04872efb6",
   "lastOpenFiles": [
+    "Cabbage-pult/Pomegarnet Merchant.md",
+    "Cabbage-pult/A.K.E.E..md",
+    "Cabbage-pult/Cabbage-pult.canvas",
+    "Peashooter/Peashooter.canvas",
     "Peashooter/Fire Pea.md",
     "Button-shroom.md",
     "Fertilizer.md",
     "E.M.Peach.md",
     "Crazy Dave.md",
-    "Cabbage-pult/Cabbage-pult.canvas",
     "Kernel-pult/Apple Mortar.md",
     "Pepper-pult/Pepper-pult.canvas",
-    "Cabbage-pult/Pomegarnet Merchant.md",
-    "Cabbage-pult/A.K.E.E..md",
     "Kernel-pult/Kernel-pult.canvas",
     "Kernel-pult/Flak Seed.md",
     "Chomper/Chomper.canvas",
@@ -198,7 +216,6 @@
     "Chomper/Cold Snapdragon.md",
     "Patrice Blazing.md",
     "Nate Timely.md",
-    "Peashooter/Peashooter.canvas",
     "Peashooter/Split Pea.md",
     "Sunflower/Sunflower.canvas",
     "Cherry Bomb/Cherry Bomb.canvas",
@@ -212,7 +229,6 @@
     "Peashooter/Gatling Pea.md",
     "Puff-shroom/Puff-shroom.canvas",
     "Wall-nut/Infi-nut.md",
-    "Wall-nut/Tall-nut.md",
     "Puff-shroom",
     "Sunflower",
     "Wall-nut",
