@@ -47,7 +47,7 @@
 		{"id":"92802c71c0987ba2","fromNode":"3b0f958f813e3b7f","fromSide":"top","toNode":"bc6847d206e5b9b8","toSide":"bottom","color":"6"},
 		{"id":"2bbeccbc9863ec11","fromNode":"bd4f4739916050af","fromSide":"right","toNode":"bc6847d206e5b9b8","toSide":"bottom","color":"6"},
 		{"id":"644e2fd97980cb6c","fromNode":"be98eba2600cff52","fromSide":"top","toNode":"57b647fe4d42d2e4","toSide":"left","color":"3"},
-		{"id":"5f53e7c09ed48946","fromNode":"aff291a5689feba1","fromSide":"left","toNode":"57b647fe4d42d2e4","toSide":"left","color":"3"},
+		{"id":"5f53e7c09ed48946","fromNode":"aff291a5689feba1","fromSide":"top","toNode":"57b647fe4d42d2e4","toSide":"left","color":"3"},
 		{"id":"0f6ee9ebb763a5f7","fromNode":"90e0b763bb61267a","fromSide":"left","toNode":"d109c5753e7dfdbf","toSide":"left","label":"+1 Peashooter\n/ Fertilizer"},
 		{"id":"7dbbf56edeeda42f","fromNode":"12526278d4cdfb32","fromSide":"top","toNode":"90e0b763bb61267a","toSide":"bottom","color":"2"},
 		{"id":"ced52c55646f6c2e","fromNode":"12526278d4cdfb32","fromSide":"right","toNode":"d109c5753e7dfdbf","toSide":"bottom","color":"2"},
