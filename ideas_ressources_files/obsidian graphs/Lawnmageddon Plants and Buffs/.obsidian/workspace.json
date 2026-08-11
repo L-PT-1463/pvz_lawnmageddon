@@ -4,96 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1c2075307ac29f0",
+        "id": "4d5b79e4c5cae722",
         "type": "tabs",
         "children": [
           {
-            "id": "1e27fcfb10e9eca1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Cherry Bomb/Cherry Bomb.canvas",
-                "viewState": {
-                  "x": 180,
-                  "y": -200,
-                  "zoom": -1.9092345360768177
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cherry Bomb"
-            }
-          },
-          {
-            "id": "47ee42c64393b623",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sunflower/Sunflower.canvas",
-                "viewState": {
-                  "x": -280,
-                  "y": -175,
-                  "zoom": -1.3973354975453847
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sunflower"
-            }
-          },
-          {
-            "id": "4d1008ae7ea5b6c3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Puff-shroom/Puff-shroom.canvas",
-                "viewState": {
-                  "x": -220,
-                  "y": -107,
-                  "zoom": -1.423807708906576
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Puff-shroom"
-            }
-          },
-          {
-            "id": "c4c3b17df2e7a88f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Peashooter/Peashooter.canvas",
-                "viewState": {
-                  "x": 597.7179910722066,
-                  "y": -688.2959956941813,
-                  "zoom": -0.9981491417437045
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Peashooter"
-            }
-          },
-          {
-            "id": "34ac6e7d1fe48dbc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Wall-nut/Wall-nut.canvas",
-                "viewState": {
-                  "x": 1255,
-                  "y": -190,
-                  "zoom": -2.407319586118007
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Wall-nut"
-            }
-          },
-          {
-            "id": "cc6571fb6f4132d2",
+            "id": "b097f03aa4478716",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -110,7 +25,41 @@
             }
           },
           {
-            "id": "23aa9a0a1cd2b820",
+            "id": "2fd0f1e667572e2d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Cherry Bomb/Cherry Bomb.canvas",
+                "viewState": {
+                  "x": 180,
+                  "y": -200,
+                  "zoom": -1.9092345360768177
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Cherry Bomb"
+            }
+          },
+          {
+            "id": "1020f4e4905158ce",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Chomper/Chomper.canvas",
+                "viewState": {
+                  "x": 20,
+                  "y": -169,
+                  "zoom": -1.708537185839689
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Chomper"
+            }
+          },
+          {
+            "id": "4968e04b6131246b",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -127,7 +76,24 @@
             }
           },
           {
-            "id": "9a982a3ecdff13d8",
+            "id": "fc354fad30923580",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Peashooter/Peashooter.canvas",
+                "viewState": {
+                  "x": -2179.5139222381704,
+                  "y": -498.75340433623575,
+                  "zoom": -1.3314824750770378
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Peashooter"
+            }
+          },
+          {
+            "id": "8c4a1c8cfca4e7ea",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -142,9 +108,76 @@
               "icon": "lucide-layout-dashboard",
               "title": "Pepper-pult"
             }
+          },
+          {
+            "id": "803844df48ba7757",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Puff-shroom/Puff-shroom.canvas",
+                "viewState": {
+                  "x": -220,
+                  "y": -107,
+                  "zoom": -1.423807708906576
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Puff-shroom"
+            }
+          },
+          {
+            "id": "14c41dcedc143481",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sunflower/Sunflower.canvas",
+                "viewState": {
+                  "x": -280,
+                  "y": -175,
+                  "zoom": -1.3973354975453847
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sunflower"
+            }
+          },
+          {
+            "id": "20e004b367064e2d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Wall-nut/Wall-nut.canvas",
+                "viewState": {
+                  "x": 819.4481878200975,
+                  "y": -307.6899501927122,
+                  "zoom": -1.74065291945134
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Wall-nut"
+            }
+          },
+          {
+            "id": "47a182fa687f95f6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Watering Can/Watering Can.canvas",
+                "viewState": {
+                  "x": 20,
+                  "y": -31,
+                  "zoom": -0.9278502142441649
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Watering Can"
+            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,43 +338,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "9a982a3ecdff13d8",
+  "active": "b097f03aa4478716",
   "lastOpenFiles": [
-    "Pepper-pult/Winter Melon.md",
-    "Sunflower/Sunflower.canvas",
-    "Sunflower/Twin Sunflower.md",
+    "Cabbage-pult/A.K.E.E..md",
+    "Cabbage-pult/Cabbage-pult.canvas",
     "Wall-nut/Wall-nut.canvas",
-    "Peashooter/Gatling Pea.md",
+    "Puff-shroom/Puff-shroom.canvas",
+    "Watering Can/Watering Can.canvas",
+    "Wall-nut/Infi-nut.md",
+    "Sunflower/Sunflower.canvas",
+    "Pepper-pult/Pepper-pult.canvas",
     "Peashooter/Peashooter.canvas",
     "Kernel-pult/Kernel-pult.canvas",
-    "Pepper-pult/Pepper-pult.canvas",
+    "Chomper/Chomper.canvas",
+    "Cherry Bomb/Cherry Bomb.canvas",
+    "E.M.Peach.md",
+    "Peashooter/Pea Pod.md",
+    "Chomper/Snapdragon.md",
+    "Iceberg Lettuce.md",
+    "Chomper/Super Chomper.md",
+    "Puff-shroom/Icy Fume-shroom.md",
+    "Pepper-pult/Winter Melon.md",
+    "Sunflower/Twin Sunflower.md",
+    "Peashooter/Gatling Pea.md",
     "Pepper-pult/Melon-pult.md",
     "Kernel-pult/Kernel-pult.md",
-    "Cabbage-pult/Cabbage-pult.canvas",
     "Cabbage-pult/Cabbage-pult.md",
     "Wall-nut/Torchwood.md",
-    "Cherry Bomb/Cherry Bomb.canvas",
     "Peashooter/Threepeater.md",
     "Wall-nut/Tall-nut.md",
     "Spikeweed.md",
     "Cherry Bomb/Jalapeño.md",
-    "Puff-shroom/Puff-shroom.canvas",
     "Sunflower/Primal Sunflower.md",
     "Puff-shroom/Scaredy-shroom.md",
     "Chomper/Nightshade.md",
     "Puff-shroom/Puff-shroom.md",
     "Puff-shroom/Fume-shroom.md",
     "Peashooter/Split Pea.md",
-    "Wall-nut/Wall-nut.md",
-    "Sunflower/Sunflower.md",
-    "Peashooter/Snow Pea.md",
-    "Peashooter/Repeater.md",
-    "Peashooter/Peashooter.md",
-    "Chomper/Chomper.canvas",
-    "Chomper/Chomper.md",
-    "Chomper/Super Chomper.md",
-    "Cherry Bomb/Cherry Bomb.md",
-    "Cabbage-pult/Pomegarnet Merchant.md",
     "Puff-shroom",
     "Sunflower",
     "Wall-nut",
@@ -351,7 +384,6 @@
     "Cherry Bomb",
     "Kernel-pult",
     "Watering Can",
-    "Cabbage-pult",
-    "Watering Can/Watering Can.canvas"
+    "Cabbage-pult"
   ]
 }
